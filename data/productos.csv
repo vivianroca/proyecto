@@ -1,0 +1,31 @@
+﻿producto_id,nombre_producto,categoria,precio,costo,proveedor
+1,Auriculares Nova,Tecnología,320.55,310.93,Argos Comercial
+2,Teclado Cronos,Tecnología,41.9,39.8,Grupo Helios
+3,Mouse Apolo,Tecnología,0.0,257.42,Grupo Helios
+4,Monitor Gaia,Tecnología,-25.0,342.44,Mercurio Retail
+5,Router Apolo,Tecnología,595.48,635.48,Proveedor Atenea
+6,Cámara Hermes,Tecnología,231.51,139.73,Nova Supply
+7,Lámpara Éter,Hogar,292.84,229.7,
+8,Silla Hermes,Hogar,160.58,122.11,Éter Logistics
+9,Mesa Atenea,Hogar,258.05,178.25,Argos Comercial
+10,Alfombra Apolo,Hogar,388.71,232.89,Grupo Helios
+11,Estante Cronos,Hogar,319.75,196.71,Cronos Distribución
+12,Vajilla Atlas,Hogar,64.75,40.46,Mercurio Retail
+13,Libreta Cronos,Oficina,81.0,49.57,Cronos Distribución
+14,Agenda Éter,Oficina,365.93,249.48,Proveedor Atenea
+15,Mochila Helios,Oficina,406.01,198.18,Éter Logistics
+16,Archivador Hermes,Oficina,399.97,229.93,Grupo Helios
+17,Bolígrafo Apolo,Oficina,254.45,201.83,Grupo Helios
+18,Calculadora Atlas,Oficina,30.19,20.69,Nova Supply
+19,Botella Hermes,Deportes,369.26,224.76,Nova Supply
+20,Mancuerna Ícaro,Deportes,161.29,87.72,Mercurio Retail
+21,Yoga Mat Oráculo,Deportes,533.13,334.17,Nova Supply
+22,Cronómetro Hermes,Deportes,215.26,135.51,Nova Supply
+23,Toalla Hermes,Deportes,409.9,208.35,Nova Supply
+24,Maletín Helios,Deportes,283.42,194.19,Mercurio Retail
+25,Funda Atlas,Accesorios,570.44,314.32,Éter Logistics
+26,Cargador Nova,Accesorios,231.57,139.35,Proveedor Atenea
+27,Base Oráculo,Accesorios,373.18,221.18,Grupo Helios
+28,Soporte Éter,Accesorios,331.77,253.05,Proveedor Atenea
+29,Cable Éter,Accesorios,430.6,270.65,Proveedor Atenea
+30,Termo Atlas,Accesorios,521.92,351.39,Grupo Helios

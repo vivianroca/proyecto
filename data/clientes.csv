@@ -1,0 +1,258 @@
+﻿cliente_id,nombre,edad,ciudad,segmento,fecha_registro
+1,Leibniz Morales,56.0,Guatemala,alto,2025-09-27
+2,Platón Reyes,69.0,Mixco,bajo,2026-02-06
+3,Hannah Campos,46.0,Guatemala,bajo,2024-06-07
+4,Voltaire León,32.0,Quetzaltenango,medio,2024-08-30
+5,Safo Morales,60.0,Mixco,bajo,2024-06-15
+6,Turing Reyes,25.0,Escuintla,medio,2026-03-30
+7,Diógenes Cruz,38.0,Mixco,medio,2024-06-30
+8,Cleopatra Aguilar,56.0,Quetzaltenango,medio,2025-02-26
+9,Aristóteles Ríos,36.0,Antigua,alto,2024-01-26
+10,Marco Lara,40.0,Guatemala,alto,2024-07-02
+11,Voltaire Flores,28.0,Mixco,medio,2026-01-24
+12,Alejandro Ríos,28.0,Villa Nueva,medio,2024-12-06
+13,Averroes Lara,41.0,Quetzaltenango,medio,2026-03-12
+14,Virginia Santos,70.0,Guatemala,bajo,2025-02-25
+15,Lovelace Navarro,53.0,Guatemala,bajo,2025-11-16
+16,Tesla Campos,57.0,antigua,alto,2026-01-22
+17,Heráclito Mora,41.0,Quetzaltenango,bajo,2024-09-11
+18,Hannah Ríos,20.0,Guatemala,bajo,2024-09-30
+19,Homero Sierra,39.0,Guatemala,bajo,2024-06-12
+20,Lovelace Aguilar,70.0,Escuintla,alto,2026-03-17
+21,Marie Navas,19.0,Mixco,bajo,2025-12-19
+22,Nietzsche Lara,41.0,Mixco,medio,2024-04-20
+23,Homero Pineda,61.0,Quetzaltenango,bajo,2025-01-26
+24,Aurelio Cruz,,Villa Nueva,bajo,2024-02-09
+25,Da Vinci Morales,55.0,Antigua,medio,2025-04-26
+26,Curie Ortega,19.0,Guatemala,bajo,2024-08-15
+27,Alejandro Navas,38.0,Mixco,bajo,2024-07-23
+28,Aristóteles Reyes,50.0,Villa Nueva,bajo,2025-04-16
+29,Parménides Navarro,29.0,Guatemala,medio,2024-12-24
+30,Descartes Ruiz,39.0,Guatemala,medio,2024-11-08
+31,Marco Navarro,61.0,Escuintla,medio,2026-03-25
+32,Arendt Santos,42.0,Mixco,bajo,2024-08-21
+33,Juana Ortega,66.0,Guatemala,alto,2024-08-16
+34,Avicena Lara,,Escuintla,medio,2024-01-25
+35,Virginia Cruz,59.0,Escuintla,medio,2025-11-06
+36,Aristóteles Cordero,45.0,Villa Nueva,medio,2024-07-16
+37,Voltaire Fuentes,33.0,Quetzaltenango,bajo,2025-02-12
+38,Arendt Cruz,32.0,Guatemala,bajo,2024-12-02
+39,Voltaire Morales,64.0,Guatemala,medio,2024-10-12
+40,Da Vinci Navas,68.0,Antigua,bajo,2024-03-12
+41,Parménides Santos,61.0,Quetzaltenango,medio,2026-03-02
+42,Galileo Sierra,69.0,Quetzaltenango,medio,2024-10-12
+43,Galileo Ortega,20.0,Mixco,ALTO,2024-12-25
+44,Rousseau Cordero,54.0,Quetzaltenango,medio,2025-10-18
+45,Hannah Vidal,68.0,Quetzaltenango,medio,2025-06-05
+46,Turing Santos,24.0,Escuintla,bajo,2025-02-13
+47,Séneca Delgado,38.0,Antigua,medio,2025-11-26
+48,Leibniz Sierra,26.0,Villa Nueva,medio,2025-07-03
+49,Diógenes Reyes,56.0,Villa Nueva,medio,2024-12-05
+50,Simone Sierra,35.0,Mixco,medio,2024-01-29
+51,Parménides Ruiz,21.0,Escuintla,medio ,2024-04-28
+52,Hannah Santos,42.0,Escuintla,medio,2024-09-24
+53,Lovelace Navarro,31.0,Guatemala,bajo,2024-07-01
+54,Voltaire Cordero,67.0,Guatemala,bajo,2025-08-17
+55,Byron Fuentes,26.0,Mixco,bajo,2024-09-28
+56,Darwin Vega,43.0,Mixco,bajo,2024-02-09
+57,Voltaire Vega,70.0,Escuintla,medio,2024-04-21
+58,Byron Ruiz,19.0,Guatemala,medio,2025-09-02
+59,Hannah Cruz,37.0,Guatemala,medio,2025-03-20
+60,Rousseau Mora,45.0,Mixco,medio,2024-12-19
+61,Virginia Pineda,64.0,Guatemala,alto,2026-01-16
+62,Rousseau Santos,24.0,Mixco,medio,2026-03-16
+63,Tzu Ruiz,61.0,Antigua,medio,2024-11-17
+64,Blaise Mendoza,25.0,antigua,bajo,2025-03-22
+65,Nietzsche Navas,64.0,Guatemala,bajo,2025-09-12
+66,Spinoza Campos,52.0,Mixco,medio,2025-06-07
+67,Safo Navarro,31.0,Mixco,medio,2024-04-28
+68,Diógenes Navas,34.0,Villa Nueva,alto,2025-01-29
+69,Safo Mora,53.0,Guatemala,bajo,2025-08-13
+70,Euclides Mora,67.0,Villa Nueva,bajo,2024-07-13
+71,Newton Ortega,57.0,Escuintla,medio,2024-09-17
+72,Voltaire León,21.0,Mixco,medio,2024-02-15
+73,Confucio Castro,19.0,Escuintla,alto,2025-12-26
+74,Marco Fuentes,23.0,Mixco,alto,2025-03-22
+75,Hipatia Morales,59.0,Mixco,medio,2024-01-02
+76,Nietzsche Santos,21.0,Villa Nueva,medio,2025-06-16
+77,Kant Cordero,46.0,Villa Nueva,bajo,2025-07-05
+78,Euclides Delgado,35.0,Quetzaltenango,medio,2025-12-04
+79,Séneca Ruiz,43.0,Guatemala,medio,2026-01-06
+80,Da Vinci Delgado,61.0,Mixco,bajo,2026-01-29
+81,Parménides Flores,51.0,Villa Nueva,bajo,2026-01-24
+82,Weil Navarro,27.0,Antigua,bajo,2025-11-17
+83,Sócrates Cordero,53.0, Guatemala ,alto,2024-07-20
+84,Woolf Morales,31.0,Escuintla,medio,2025-01-07
+85,Turing Navarro,48.0,Mixco,alto,2025-03-17
+86,Homero Navas,65.0,Guatemala,medio,2024-03-12
+87,Darwin Santos,32.0,Quetzaltenango,alto,2025-11-11
+88,Marie Morales,25.0,Antigua,medio,2024-12-04
+89,Arendt Aguilar,31.0,Escuintla,medio,2025-09-30
+90,Kant Mendoza,40.0,Guatemala,medio,2024-11-17
+91,Sócrates Reyes,57.0,Villa Nueva,medio,2025-11-10
+92,Woolf Navas,38.0,Villa Nueva,medio,2024-05-07
+93,Confucio Fuentes,33.0,Escuintla,medio,2026-01-07
+94,Hume Flores,62.0,Guatemala,medio,2024-11-03
+95,Aurelio Santos,35.0,Guatemala,alto,2025-06-03
+96,Ada Santos,64.0,Guatemala,medio,2024-11-12
+97,Confucio Delgado,70.0,Guatemala,medio,2025-11-13
+98,Locke León,41.0,Mixco,medio,2025-02-22
+99,Galileo Fuentes,43.0,Mixco,medio,2024-11-30
+100,Kant Navarro,42.0,Mixco,alto,2025-02-16
+101,Darwin Flores,62.0,Quetzaltenango,alto,2025-12-14
+102,Sócrates Delgado,58.0, Escuintla ,bajo,2024-10-29
+103,Byron Castro,46.0,Guatemala,medio,2025-07-21
+104,Platón Morales,32.0,Guatemala,medio,2024-05-10
+105,Galileo Salazar,62.0,Villa Nueva,bajo,2024-07-15
+106,Simone Vega,18.0,Mixco,alto,2025-03-06
+107,Simone Mora,42.0,Guatemala,bajo,2025-11-11
+108,Marco Cruz,24.0,Guatemala,medio,2025-01-23
+109,Woolf Castro,26.0,guatemala,alto,2025-11-24
+110,Séneca Fuentes,41.0,Quetzaltenango,medio,2026-02-05
+111,Diógenes Fuentes,18.0,Guatemala,bajo,2024-06-27
+112,Spinoza León,61.0,Antigua,medio,2025-09-22
+113,Pascal Castro,25.0,Villa Nueva,bajo,2025-08-05
+114,Averroes Sierra,,Guatemala,medio,2024-11-04
+115,Weil Flores,28.0,Mixco,bajo,2025-02-19
+116,Alejandro Aguilar,68.0,Guatemala,medio,2025-07-15
+117,Rousseau Navarro,34.0,Villa Nueva,bajo,2024-01-01
+118,Homero Reyes,25.0,Guatemala,medio,2024-11-07
+119,Lovelace Lara,52.0,Guatemala,alto,2024-10-20
+120,Virginia Salazar,52.0,Villa Nueva,alto,2024-08-03
+121,Newton Cordero,50.0,Guatemala,alto,2025-03-16
+122,Blaise Ortega,22.0,Guatemala,alto,2026-03-15
+123,Heráclito Flores,59.0,Mixco,alto,2025-08-16
+124,Heráclito Morales,56.0,Guatemala,medio,2025-09-13
+125,Simone Campos,58.0,Quetzaltenango,medio,2025-11-01
+126,Séneca Pineda,45.0,Guatemala,bajo,2024-11-25
+127,Platón Mora,24.0,Villa Nueva,bajo,2025-04-21
+128,Averroes Campos,26.0,Mixco,medio,2025-03-28
+129,Cleopatra Campos,25.0,Villa Nueva,bajo,2025-03-28
+130,Sócrates Cruz,29.0,Guatemala,bajo,2025-11-22
+131,Virginia Santos,51.0,Guatemala,medio,2024-08-06
+132,Hipatia Campos,50.0,Escuintla,medio,2025-06-07
+133,Séneca Vega,65.0,Quetzaltenango,medio,2025-04-29
+134,Marie Cruz,40.0,quetzaltenango,medio,2026-03-23
+135,Confucio Campos,41.0,Guatemala,medio,2026-03-26
+136,Hannah Cordero,54.0,guatemala,medio,2026-01-23
+137,Tzu Lara,52.0,Guatemala,bajo,2024-06-22
+138,Diógenes León,61.0,Mixco,bajo,2025-11-05
+139,Woolf Mora,57.0, Guatemala ,alto,2024-03-27
+140,Avicena Castro,39.0,quetzaltenango,medio,2024-10-17
+141,Simone Castro,44.0,Guatemala,alto,2025-06-11
+142,Tesla Lara,52.0,Escuintla,medio,2025-11-10
+143,Aurelio Morales,18.0,Mixco,medio,2025-10-10
+144,Pascal Aguilar,52.0,Quetzaltenango,bajo,2025-09-26
+145,Curie Aguilar,54.0,guatemala,medio,2024-12-09
+146,Tesla Mendoza,64.0,Mixco,bajo,2024-04-05
+147,Woolf Vega,31.0,Villa Nueva,bajo,2026-02-08
+148,Turing Santos,20.0,Guatemala,alto,2024-08-28
+149,Blaise Morales,18.0,Guatemala,bajo,2025-11-19
+150,Hipatia Ruiz,22.0,Escuintla,medio,2024-11-13
+151,Woolf Pineda,43.0,Antigua,medio,2024-08-18
+152,Aurelio Campos,31.0,Guatemala,medio,2024-07-22
+153,Locke Lara,,Mixco,bajo,2024-05-30
+154,Diógenes Mendoza,44.0,Mixco,medio,2024-01-26
+155,Spinoza Aguilar,26.0,Antigua,bajo,2024-02-17
+156,Hume Navas,32.0,Guatemala,bajo,2024-09-07
+157,Parménides Campos,,Guatemala,medio,2025-05-01
+158,Séneca Mendoza,43.0,Guatemala,bajo,2025-09-17
+159,Averroes Morales,59.0, Mixco ,medio,2026-02-25
+160,Hipatia Santos,30.0,Villa Nueva,medio,2024-03-15
+161,Diógenes Ríos,68.0,Guatemala,medio,2025-04-11
+162,Marco Fuentes,49.0,Escuintla,ALTO,2025-02-28
+163,Simone Sierra,56.0,Mixco,bajo,2025-10-06
+164,Tesla Castro,66.0,Guatemala,medio,2025-08-12
+165,Sun Lara,69.0,Guatemala,medio,2024-07-18
+166,Newton Vega,49.0,Guatemala,bajo,2026-01-05
+167,Kant Ruiz,21.0, Escuintla ,medio,2025-12-14
+168,Sócrates Ruiz,47.0,Villa Nueva,medio,2025-01-28
+169,Weil Mendoza,54.0,Mixco,medio,2025-05-21
+170,Arendt Aguilar,40.0,Villa Nueva,bajo,2025-02-13
+171,Lovelace Reyes,56.0,Mixco,medio,2024-09-06
+172,Averroes Cordero,62.0,Antigua,bajo,2024-05-31
+173,Virginia Castro,32.0,Guatemala,bajo,2025-11-02
+174,Nietzsche Lara,60.0,Villa Nueva,alto,2025-12-05
+175,Arendt Lara,,Guatemala,alto,2024-01-06
+176,Hipatia Mora,53.0,GUATEMALA,medio,2026-02-07
+177,Safo Navarro,30.0,Guatemala,medio,2026-02-27
+178,Hipatia Reyes,49.0,Guatemala,medio,2024-04-19
+179,Byron Vega,24.0,Guatemala,medio,2026-03-08
+180,Hipatia Mora,68.0,Guatemala,medio,2025-03-11
+181,Sun Flores,39.0,Escuintla,medio,2024-08-12
+182,Epicuro Sierra,45.0,Guatemala,medio,2024-06-29
+183,Hipatia Flores,19.0,Guatemala,medio,2025-12-13
+184,Marco Sierra,59.0,Antigua,medio,2025-06-14
+185,Séneca Delgado,62.0,Quetzaltenango,medio,2025-04-20
+186,Séneca Cordero,70.0, Guatemala ,alto,2024-02-21
+187,Simone Ruiz,23.0,Mixco,medio,2025-07-24
+188,Descartes Mora,45.0,Villa Nueva,medio ,2024-09-12
+189,Simone Mora,45.0,Guatemala,bajo,2024-05-04
+190,Alejandro Vega,61.0,Escuintla,medio,2025-04-12
+191,Juana Cruz,61.0,Quetzaltenango,bajo,2024-05-16
+192,Tesla Cordero,37.0,GUATEMALA,medio,2026-03-31
+193,Cleopatra Mora,47.0,Guatemala,medio,2025-04-20
+194,Epicuro Pineda,28.0,Escuintla,bajo,2025-11-14
+195,Weil Lara,45.0,Mixco,medio,2025-06-27
+196,Pascal Vidal,42.0,Mixco,medio,2025-07-26
+197,Byron Campos,56.0,Villa Nueva,alto,2025-09-01
+198,Weil Ruiz,50.0,Villa Nueva,medio,2024-11-20
+199,Spinoza Cordero,18.0,Escuintla,medio,2026-02-12
+200,Blaise Salazar,44.0,Escuintla,medio,2025-03-29
+201,Parménides Pineda,69.0,Quetzaltenango,bajo,2025-09-19
+202,Homero Cruz,30.0,Villa Nueva,alto,2026-01-06
+203,Sócrates Mendoza,58.0,Quetzaltenango,medio,2025-05-31
+204,Juana Mora,20.0,Villa Nueva,medio,2025-03-12
+205,Aurelio Cruz,56.0,Villa Nueva,alto,2025-07-15
+206,Diógenes Lara,23.0,Guatemala,medio,2025-04-01
+207,Confucio Navas,25.0,Quetzaltenango,medio,2024-06-11
+208,Spinoza Ortega,44.0,Quetzaltenango,medio,2026-01-31
+209,Séneca Campos,26.0,Villa Nueva,alto,2025-05-01
+210,Galileo Salazar,54.0,Quetzaltenango,medio,2025-04-05
+211,Kant Mendoza,50.0,Villa Nueva,alto,2024-09-22
+212,Diógenes Vidal,68.0,Guatemala,bajo,2026-02-08
+213,Ada Delgado,59.0,Guatemala,alto,2024-09-10
+214,Blaise Flores,61.0,Guatemala,medio,2025-10-14
+215,Sócrates Cordero,41.0,Mixco,bajo,2024-10-10
+216,Averroes Salazar,32.0,Guatemala,medio,2026-02-23
+217,Pascal Morales,49.0,Villa Nueva,bajo,2026-03-07
+218,Spinoza Navas,49.0,Guatemala,medio,2025-06-17
+219,Descartes Morales,41.0,Villa Nueva,bajo,2025-05-11
+220,Safo Navarro,58.0,Mixco,medio,2025-10-03
+221,Nietzsche Navas,69.0,Villa Nueva,bajo,2024-09-01
+222,Arendt Delgado,66.0,Guatemala,alto,2024-10-08
+223,Rousseau Vidal,66.0,Guatemala,alto,2025-03-26
+224,Marie Lara,69.0,Mixco,alto,2024-03-20
+225,Turing Santos,29.0,Villa Nueva,medio,2025-12-31
+226,Weil Flores,56.0,Guatemala,bajo,2024-10-19
+227,Tzu Navas,,Escuintla,bajo,2024-08-28
+228,Hipatia Cruz,20.0,Guatemala,alto,2024-10-05
+229,Leibniz Aguilar,66.0,Mixco,bajo,2024-12-09
+230,Hannah Vega,54.0,Escuintla,medio,2024-11-23
+231,Sócrates Pineda,66.0,Mixco,medio,2025-07-07
+232,Darwin León,34.0,Mixco,alto,2024-03-23
+233,Leibniz Navas,66.0,Villa Nueva,bajo,2024-05-21
+234,Kant Reyes,19.0,Villa Nueva,alto,2024-06-03
+235,Heráclito Navarro,19.0,Antigua,medio,2024-08-24
+236,Virginia Aguilar,45.0,Guatemala,bajo,2025-01-27
+237,Averroes Ríos,40.0,Guatemala,alto,2025-12-11
+238,Descartes Cruz,54.0,Villa Nueva,medio,2024-06-05
+239,Lovelace León,49.0,Quetzaltenango,medio,2025-12-24
+240,Diógenes Vega,50.0,Villa Nueva,medio,2024-08-07
+241,Galileo Mora,18.0,Guatemala,medio,2024-03-06
+242,Averroes León,36.0,Villa Nueva,medio,2025-02-28
+243,Euclides León,19.0,Antigua,medio,2025-02-21
+244,Aristóteles Salazar,70.0,Guatemala,medio,2024-12-04
+245,Galileo Vega,61.0,Mixco,medio,2025-07-09
+246,Curie Lara,43.0,Mixco,bajo,2025-04-22
+247,Turing Campos,49.0,Mixco,medio,2025-03-01
+248,Pascal Morales,23.0,Mixco,medio,2024-03-04
+249,Curie Fuentes,49.0,Guatemala,medio,2024-07-30
+250,Averroes Aguilar,21.0,Guatemala,medio,2025-03-06
+184,Marco Sierra,59.0,Antigua,medio,2025-06-14
+57,Voltaire Vega,70.0,Escuintla,medio,2024-04-21
+87,Darwin Santos,32.0,Quetzaltenango,alto,2025-11-11
+56,Darwin Vega,43.0,Mixco,bajo,2024-02-09
+236,Virginia Aguilar,45.0,Guatemala,bajo,2025-01-27
+34,Avicena Lara,,Escuintla,medio,2024-01-25
+83,Sócrates Cordero,53.0, Guatemala ,alto,2024-07-20
